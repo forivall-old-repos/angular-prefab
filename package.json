@@ -1,0 +1,14 @@
+{
+  "name": "angular-prefab",
+  "version": "0.0.0",
+  "description": "Tools for wrapping preexisting html/js components for angularjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forivall/angular-prefab.git"
+  },
+  "author": "Jordan Klassen <forivall@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forivall/angular-prefab/issues"
+  }
+}
