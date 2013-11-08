@@ -1,7 +1,9 @@
 /*global angular*/
 'use strict';
 
-angular.module('ngvs.sc')
+angular.module('ngpf.sc', ['ng']);
+
+angular.module('ngpf.sc')
 .factory('ScopedController', function ($rootScope, $interpolate, $parse) {
 
     function ScopedController() {
